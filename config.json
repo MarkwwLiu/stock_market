@@ -1,0 +1,23 @@
+{
+    "stocks": [
+        "^TWII",
+        "2330",
+        "0050",
+        "00878",
+        "0056"
+    ],
+    "default_period": "1y",
+    "periods": [
+        "1w",
+        "1m",
+        "3m",
+        "6m",
+        "1y",
+        "3y"
+    ],
+    "output_formats": [
+        "csv",
+        "json",
+        "chart"
+    ]
+}

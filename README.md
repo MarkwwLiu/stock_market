@@ -139,4 +139,3 @@ python main.py --all
 ## 數據來源
 
 數據來源：Yahoo Finance
-# stock_market
